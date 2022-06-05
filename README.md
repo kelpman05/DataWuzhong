@@ -1,4 +1,4 @@
-# Data for the blockchain-as-coordination-committee framework
+# Data for the parameters and trading results of the Wuzhong multi-energy district. 
 This is a respository for parameters and results in the 12-community and 120-community examples.
 
 Please cite these articles if you want to cite the data.
