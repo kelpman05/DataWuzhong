@@ -7,4 +7,6 @@ Chen, S., Mi, H., Ping, J., Yan, Z., Shen, Z., Liu, X., Zhang, N., Xia, Q., Kang
 
 Chen, S., Shen, Z., Zhang, L., Yan, Z., Li, C., Zhang, N., & Wu, J. (2021). A trusted energy trading framework by marrying blockchain and optimization. Advances in Applied Energy, 2(May), 100029. https://doi.org/10.1016/j.adapen.2021.100029
 
+If you do not have institutional access to the Nature Energy article, please access the full article via https://rdcu.be/cPa8Z. Please feel free to publicly share this link.
+
 Please contact Sijie Chen (sijie.chen AT sjtu.edu.cn) if you have any questions.
